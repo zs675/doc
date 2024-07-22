@@ -1,2 +1,2 @@
 # doc
-Documentation accumulation during programming
+Documentation accumulation for programming
